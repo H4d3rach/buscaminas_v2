@@ -59,4 +59,5 @@ This is a basic multiplayer **Minesweeper server application** built using **Pyt
 
 ## How to Run
 
+```bash
 python servidor.py <host> <port> <max_connections>
